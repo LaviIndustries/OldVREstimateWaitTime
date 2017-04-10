@@ -677,7 +677,7 @@ namespace WaitTimeSimulatorWindowsS
                                 }
                             }
 
-                            dbCommand.CommandText = "INSERT INTO [HistoricalEstimateTimeStorage-AllEstimateTCollection] ([RowId],[TimeStemp],[ServingUser],[ServiceTypeName],[EstimateWaitTime]) VALUES ('" + listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2] + "',GETDATE(),'" + AssignStation + "','" + listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2 + 1] + "','" + CurrentAccumulateTime + "')";
+                            dbCommand.CommandText = "INSERT INTO [HistoricalEstimateTimeStorage-AllEstimateTCollection] ([RowId],[TimeStemp],[ServingUser],[ServiceTypeName],[EstimateWaitTime],[Branch],[Region],[Company]) VALUES ('" + listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2] + "',GETDATE(),'" + AssignStation + "','" + listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2 + 1] + "','" + CurrentAccumulateTime + "','" + operatedBranch.Branch + "','" + operatedBranch.Region + "','" + operatedBranch.CompanyName + "')";
                             dbCommand.ExecuteNonQuery();
                             eventLog1.WriteEntry("INSERT in HistoricalEstimateTimeStorage-AllEstimateTCollection - contained");
                             Debug.WriteLine("INSERT in HistoricalEstimateTimeStorage-AllEstimateTCollection - contained" + " -- " + operatedBranch.ID);
@@ -690,7 +690,7 @@ namespace WaitTimeSimulatorWindowsS
                             }
                             else
                             {
-                                dbCommand.CommandText = "INSERT INTO [HistoricalEstimateTimeStorage] ([RowId],[ServingUser],[ServiceTypeName],[EstimateWaitTime]) VALUES ('" + listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2] + "','" + AssignStation + "','" + listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2 + 1] + "','" + CurrentAccumulateTime + "')";
+                                dbCommand.CommandText = "INSERT INTO [HistoricalEstimateTimeStorage] ([RowId],[ServingUser],[ServiceTypeName],[EstimateWaitTime],[Branch],[Region],[Company]) VALUES ('" + listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2] + "','" + AssignStation + "','" + listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2 + 1] + "','" + CurrentAccumulateTime + "','" + operatedBranch.Branch + "','" + operatedBranch.Region + "','" + operatedBranch.CompanyName + "')";
                                 dbCommand.ExecuteNonQuery();
                                 eventLog1.WriteEntry(listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2] + "; " + CurrentAccumulateTime + " - Insert table 'HistoricalEstimateTimeStorage' successful!");
                                 Debug.WriteLine(listCheckIssueTicket[(listCheckIssueTicket.Count / 2 - 1 - j) * 2] + "; " + CurrentAccumulateTime + " - Insert table 'HistoricalEstimateTimeStorage' successful!" + " -- " + operatedBranch.ID);
