@@ -11,7 +11,23 @@ C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\obj\
 C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.pdb
 C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
 C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.pdb
-C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.csprojResolveAssemblyReference.cache
 C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.WTSimulatorService.resources
 C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.csproj.GenerateResource.Cache
 C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.ProjectInstaller.resources
+C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\System.Net.Http.dll
+C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\System.Net.Http.xml
+C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.csprojResolveAssemblyReference.cache
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe.config
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.exe
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.pdb
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.csprojResolveAssemblyReference.cache
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.ProjectInstaller.resources
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.WTSimulatorService.resources
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.csproj.GenerateResource.Cache
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.pdb
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\bin\Debug\System.Net.Http.dll
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3\WaitTimeSimulatorWindowsS\bin\Debug\System.Net.Http.xml
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3 - Copy\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe.config
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3 - Copy\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.exe
+C:\Development\WaitTimeSimulatorWindowsS-04122017 - P3 - Copy\WaitTimeSimulatorWindowsS\obj\Debug\WaitTimeSimulatorWindowsS.pdb

@@ -1,0 +1,884 @@
+﻿Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe assembly.
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Rolling back assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Rolling back assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Rolling back assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Restoring event log to previous state for source WaitTimeSimulatorWindowsS.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Rolling back assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Restoring event log to previous state for source WaitTimeSimulatorWindowsS.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Attempt to stop service WaitTimeSimulatorWindowsS.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Attempt to stop service WaitTimeSimulatorWindowsS.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Rolling back assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Restoring event log to previous state for source WaitTimeSimulatorWindowsS.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Rolling back assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Restoring event log to previous state for source WaitTimeSimulatorWindowsS.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Rolling back assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Restoring event log to previous state for source WaitTimeSimulatorWindowsS.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Rolling back assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Restoring event log to previous state for source WaitTimeSimulatorWindowsS.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Attempt to stop service WaitTimeSimulatorWindowsS.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Warning: The source WaitTimeSimulatorWindowsS is not registered on the local machine.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
+Installing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Installing service WaitTimeSimulatorWindowsS...
+Service WaitTimeSimulatorWindowsS has been successfully installed.
+Creating EventLog source WaitTimeSimulatorWindowsS in log Application...
+Committing assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Uninstalling assembly 'C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.InstallLog
+   assemblypath = C:\Development\WaitTimeSimulatorWindowsS-04102017\WaitTimeSimulatorWindowsS\bin\Debug\WaitTimeSimulatorWindowsS.exe
+Removing EventLog source WaitTimeSimulatorWindowsS.
+Service WaitTimeSimulatorWindowsS is being removed from the system...
+Service WaitTimeSimulatorWindowsS was successfully removed from the system.
